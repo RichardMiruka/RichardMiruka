@@ -1,5 +1,7 @@
 Hi there 👋
 
+I'm Glad Your'e Checking My Profile 😁
+
 🔭 Moringa School Graduate. (Stack: Python - Flask, JavaScript - React.)
 
 🔭 ALX Intro To SWE Nanodegree Program  Graduate. (Stack: Python - Flask, JavaScript - React.)
