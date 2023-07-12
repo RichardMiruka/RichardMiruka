@@ -14,4 +14,4 @@ Hi there 👋
 
 ⚡ Fun fact: I am both a Software Engineer and Resource Planner!
 
-[You can also find me on Linkedin](https://www.linkedin.com/in/richard-miruka-05083b147)
+⚡[You can also find me on Linkedin](https://www.linkedin.com/in/richard-miruka-05083b147)
