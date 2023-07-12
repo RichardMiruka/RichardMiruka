@@ -16,8 +16,8 @@ I'm Glad Your'e Checking My Profile 😁
 
 ⚡ P/S Learning and picking up very fast is very important to me
 
-[💬 Read my blog here ](https://richard-miruka.hashnode.dev)
+💬 Read my blog [here ](https://richard-miruka.hashnode.dev)
 
-🔭 [You can also find me here on Linkedin](https://www.linkedin.com/in/richard-miruka-05083b147)
+🔭 You can also find me here on [Linkedin](https://www.linkedin.com/in/richard-miruka-05083b147)
 
-🏋🏿 [You can Check Out My Portfolio]()
+🏋🏿 You can Check Out [My Portfolio]()
