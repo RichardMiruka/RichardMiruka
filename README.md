@@ -10,6 +10,8 @@ Hi there 👋
 
 ⚡ Current Prolificient Stacks: Django/Flask & React 
 
-💬 Read my blog here https://richard-miruka.hashnode.dev
+[💬 Read my blog here ](https://richard-miruka.hashnode.dev)
 
 ⚡ Fun fact: I am both a Software Engineer and Resource Planner!
+
+[You can also find me on Linkedin](https://www.linkedin.com/in/richard-miruka-05083b147)
