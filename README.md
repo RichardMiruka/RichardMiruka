@@ -18,4 +18,4 @@ Hi there 👋
 
 🔭 [You can also find me here on Linkedin](https://www.linkedin.com/in/richard-miruka-05083b147)
 
-🏋🏿🏋🏿 [You can Check Out My Portfolio]()
+🏋🏿 [You can Check Out My Portfolio]()
