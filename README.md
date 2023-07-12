@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**RichardMiruka/RichardMiruka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Moringa School Graduate. (Stack: Python - Flask, JavaScript - React.)
 
-Here are some ideas to get you started:
+🔭 ALX Intro To SWE Nanodegree Program  Graduate. (Stack: Python - Flask, JavaScript - React.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭  ALX Software Engineering Nanodegree Program (Stack: NodeJS, Express.JS, TypeScript, Django )
+
+🔭 I’m currently working on MongoDB, Docker, Kubernetes, AWS Cloud.
+
+⚡ Current Prolificient Stacks: Django/Flask & React 
+
+💬 Read my blog here https://richard-miruka.hashnode.dev
+
+⚡ Fun fact: I am both a Software Engineer and Resource Planner!
