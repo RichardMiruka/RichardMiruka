@@ -4,11 +4,13 @@ I'm Glad Your'e Checking My Profile 😁
 
 🔭 Moringa School Graduate. (Stack: Python - Flask, JavaScript - React.)
 
-🔭 ALX Intro To SWE Nanodegree Program  Graduate. (Stack: Python - Flask, JavaScript - React.)
+🔭 ALX Intro To SWE Program  Graduate. (Stack: Python - Flask, JavaScript - React/Vue.)
 
 🔭  ALX Software Engineering Nanodegree Program (Stack: NodeJS, Express.JS, TypeScript, Django )
 
-🔭 I’m currently working on MongoDB, Docker, Kubernetes, Azure Cloud, AWS
+🔭 I’m currently working on MongoDB, Docker, Kubernetes, Azure Cloud, AWS, 
+
+🔭 I'm a member of ALX/ALT
 
 ⚡ Current Prolificient Stacks: Django/Flask & React 
 
