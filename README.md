@@ -18,6 +18,6 @@ I'm Glad Your'e Checking My Profile 😁
 
 💬 Read my blog [here ](https://richard-miruka.hashnode.dev)
 
-🔭 You can also find me here on [Linkedin](https://www.linkedin.com/in/richard-miruka-05083b147)
+🔭 You can also find me on [Linkedin](https://www.linkedin.com/in/richard-miruka-05083b147)
 
 🏋🏿 You can Check Out [My Portfolio]()
