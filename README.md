@@ -1,4 +1,5 @@
-Hi there 👋
+Hi there 👋 ![image](https://github.com/RichardMiruka/RichardMiruka/assets/105627752/1f9c2f02-3dcd-41e5-b67f-29e7c935e347)
+
 
 I'm Glad Your'e Checking My Profile 😁
 
