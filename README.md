@@ -13,7 +13,7 @@ I'm Glad Your'e Checking My Profile 😁
 
 🔭 I'm a member of ALX/ALT
 
-⚡ Current Prolificient Stacks: Django/Flask & React 
+⚡ Current Prolificient Stacks: Flask/Django & React 
 
 ⚡ Fun fact: I am both a Software Engineer and Resource Planner!
 
