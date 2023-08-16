@@ -1,7 +1,4 @@
-[![Header](https://raw.githubusercontent.com/RichardMiruka/RichardMiruka/master/readme_header.png "Header")]
-
 Hi there 👋 
-
 
 I'm Glad Your'e Checking My Profile 😁
 
