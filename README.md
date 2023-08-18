@@ -4,8 +4,8 @@
 <h1 style="font-family:script;" align="left"> Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
  I'm Richard Miruka</h1>
 
-<h3 align="left">A passionate Full-Stack Developer from Nairobi, Kenya</h3>
-
+<h3 align="left">A Software Engineer, Specialized in Full Stack Development; ReactJS, NodeJS, Flask, Django & TypeScript </h3>
+Software Engineer & Cloud Developer Specialized in Full Stack Development; ReactJS, NodeJS, Serverless Framework & AWS Clou
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richardmiruka&label=Profile%20views&color=0e75b6&style=flat" alt="richardmiruka" />
  <img align= "right" alt="Coding" width="400" height="600" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
