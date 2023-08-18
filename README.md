@@ -2,7 +2,7 @@
 <!-- ![](https://i.ytimg.com/vi/2oklET0ERu4/maxresdefault.jpg) -->
 
 <h1 style="font-family:script;" align="left"> Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-, I'm Richard Miruka</h1>
+. I'm Richard Miruka</h1>
 
 <h3 align="left">A passionate Full-Stack Developer from Nairobi, Kenya</h3>
 
