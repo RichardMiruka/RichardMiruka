@@ -2,10 +2,6 @@ Hi there 👋
 
 I'm Glad Your'e Checking My Profile 😁
 
-<img align="center" alt="Coding" width="900" height="210" src="https://i.pinimg.com/736x/45/05/cf/4505cf2c0926b7cb73178a87e40b3af2--javascript-python.jpg">
-<!-- ![](https://i.ytimg.com/vi/2oklET0ERu4/maxresdefault.jpg) -->
-
-
 🔭 Moringa School Graduate. (Stack: Python - Flask, JavaScript - React.)
 
 🔭 ALX Intro To SWE Program  Graduate. (Stack: Python - Flask, JavaScript - React/Vue.)
