@@ -25,7 +25,7 @@ I'm Glad Your'e Checking My Profile 😁
 
 ⚡ Current Prolificient Stacks: Flask, Django, Node.js & React.js 
 
-⚡ Fun fact: I am both a Software Engineer and Resource Planner!
+⚡ Fun fact: I am both a **Software Engineer** and a **Resource Planner!**
 
 ⚡ P/S Learning and picking up very fast is very important to me
 
