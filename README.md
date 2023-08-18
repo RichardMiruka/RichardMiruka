@@ -4,6 +4,9 @@
 <h1 style="font-family:script;" align="left"> Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 , I'm Richard Miruka</h1>
 
+<h3 align="center">A passionate Full Stack Developer from Kenya</h3>
+<img align="right" alt ="Coding" width="300"src=https://media.tenor.com/PX1doq1mxnYAAAAC/girl-hacker.gif/>
+
 I'm Glad Your'e Checking My Profile 😁
 
 <!-- [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://developers.google.com/profile/u/tolulopefakunle/dashboard) -->
