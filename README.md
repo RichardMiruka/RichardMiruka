@@ -31,7 +31,7 @@ I'm Glad You're Checking My Profile 😁
 
 💬 Read my blog [here ](https://richard-miruka.hashnode.dev)
 
-🏋🏿 You can Check Out [My Portfolio](https://richardmiruka.github.io/Richard_Miruka_Portfolio.io/)
+🏋🏿 You can Check Out [My Portfolio](https://richardmiruka.github.io/https://richard-miruka-portfolio.onrender.com)
 
 🔭 You can also find me on [Linkedin](https://www.linkedin.com/in/richard-miruka-05083b147)
 
