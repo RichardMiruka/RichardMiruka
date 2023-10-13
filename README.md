@@ -1,6 +1,5 @@
 <h1 style="font-family:script;" align="left"> Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
  I am Richard Miruka</h1>
-
 <h3 align="left">A Software Engineer, Specialized in Full Stack Development; React.JS, Node.JS, Flask, Django & TypeScript </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richardmiruka&label=Profile%20views&color=0e75b6&style=flat" alt="richardmiruka" />
