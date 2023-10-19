@@ -19,7 +19,7 @@ I'm Glad You're Checking My Profile 😁
 
 🔭 I’m currently working on MongoDB, Docker, Kubernetes, Azure Cloud, AWS, 
 
-🔭 I'm a member of **ALX/ALT**
+🔭 I'm a member of **ALX/ALX SE**
 
 ⚡ Current Prolificient Stacks: **Flask, Django, Node.js & React.js** 
 
