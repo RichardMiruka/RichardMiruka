@@ -3,7 +3,8 @@
 
 <h1 style="font-family:script;" align="left">Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"> I am Richard Miruka</h1>
 
-<h1 style="font-family:script;" align="left">Hi there <img src="{{ site.file_url('Assets/Hi.gif') }}" width="29px">I am Richard Miruka</h1>
+<h1 style="font-family:script;" align="left">Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px">I am Richard Miruka</h1>
+
 
 <h3 align="left">A Software Engineer, Specialized in Full Stack Development; React.JS, Node.JS, Flask, Django & TypeScript </h3>
 
