@@ -1,17 +1,13 @@
 <img align="center" alt="Coding" width="900" height="210" src="https://i.pinimg.com/736x/45/05/cf/4505cf2c0926b7cb73178a87e40b3af2--javascript-python.jpg">
 <!-- ![](https://i.ytimg.com/vi/2oklET0ERu4/maxresdefault.jpg) -->
 
-<h1 style="font-family:script;" align="left">Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"> I am Richard Miruka</h1>        I'm Glad You're Checking My Profile 😁
+<h1 style="font-family:script;" align="left">Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"> I am Richard Miruka</h1> 
 
 <h3 align="left">A Software Engineer, Specialized in Full Stack Development; React.JS, Node.JS, Flask, Django & TypeScript </h3>
 
 <p align="left"> <a href="https://github.com/RichardMiruka/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RichardMiruka" alt="RichardMiruka" /></a> </p>
 
 I'm Glad You're Checking My Profile 😁
-
-<div style="float: right; margin-left: 20px;">
-  <img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAC/developer.gif" alt="">
-</div>
 
 <!--[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://developers.google.com/profile/u/tolulopefakunle/dashboard)-->
 
@@ -31,7 +27,9 @@ I'm Glad You're Checking My Profile 😁
 
 ⚡ P/S Learning and picking up very fast is very important to me
 
-<img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAC/developer.gif" alt="">
+<div style="float: right; margin-left: 20px;">
+  <img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAC/developer.gif" alt="">
+</div>
 
 💬 Read my blog [here ](https://richard-miruka.hashnode.dev)
 
