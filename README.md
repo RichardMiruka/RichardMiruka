@@ -45,7 +45,5 @@ I'm Glad You're Checking My Profile 😁
  ## Stats.
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardMiruka&layout=compact&theme=dark&hide_border=false" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=RichardMiruka&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Richard Miruka's Github stats" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RichardMiruka&theme=dark" alt="RichardMiruka" /></p>
 <br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RichardMiruka&theme=react)](https://git.io/streak-stats)]
