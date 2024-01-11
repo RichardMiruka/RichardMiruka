@@ -3,12 +3,14 @@
 
 <h1 style="font-family:script;" align="left">Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"> I am Richard Miruka</h1>
 
+<img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAC/developer.gif" alt="">
+
 <h3 align="left">A Software Engineer, Specialized in Full Stack Development; React.JS, Node.JS, Flask, Django & TypeScript </h3>
 
 <p align="left"> <a href="https://github.com/RichardMiruka/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-fethi" alt="a-fethi" /></a> </p>
 I'm Glad You're Checking My Profile 😁
 
-<img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAC/developer.gif" alt="">
+
 
 <!--[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://developers.google.com/profile/u/tolulopefakunle/dashboard)-->
 
