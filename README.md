@@ -12,15 +12,6 @@
     <span class="profile-message">I'm Glad You're Checking My Profile 😁</span>
   </p>
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=RichardMiruka&label=Profile%20views&color=0e75b6&style=flat" alt="RichardMiruka" />
-    I'm Glad You're Checking My Profile 😁
-  </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RichardMiruka&label=Profile%20views&color=0e75b6&style=flat" alt="RichardMiruka" /> </p>  <p>I'm Glad You're Checking My Profile 😁</p>
-
-I'm Glad You're Checking My Profile 😁
-
 <!--[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://developers.google.com/profile/u/tolulopefakunle/dashboard)-->
 
 🔭 Moringa School Graduate. (Stack: Python - Flask, JavaScript - React.)
