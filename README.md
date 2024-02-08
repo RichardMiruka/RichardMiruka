@@ -9,6 +9,11 @@
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=RichardMiruka&label=Profile%20views&color=0e75b6&style=flat" alt="RichardMiruka" />
+    <span class="profile-message">I'm Glad You're Checking My Profile 😁</span>
+  </p>
+
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=RichardMiruka&label=Profile%20views&color=0e75b6&style=flat" alt="RichardMiruka" />
     I'm Glad You're Checking My Profile 😁
   </p>
 
