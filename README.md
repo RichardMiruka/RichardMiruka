@@ -5,7 +5,12 @@
 
 <h3 align="left">A Software Engineer, Specialized in Full Stack Development; React.JS, Node.JS, Flask, Django & TypeScript </h3>
 
-<p align="left"> <a href="https://github.com/RichardMiruka/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RichardMiruka" alt="RichardMiruka" /></a> </p>
+<p align="left"> <a href="https://github.com/RichardMiruka/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RichardMiruka" alt="RichardMiruka" /></a> </p> 
+
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=RichardMiruka&label=Profile%20views&color=0e75b6&style=flat" alt="RichardMiruka" />
+    I'm Glad You're Checking My Profile 😁
+  </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RichardMiruka&label=Profile%20views&color=0e75b6&style=flat" alt="RichardMiruka" /> </p>  <p>I'm Glad You're Checking My Profile 😁</p>
 
