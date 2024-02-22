@@ -18,7 +18,7 @@
 
 🔭 ALX Intro To SWE Program  Graduate. (Stack: Python - Flask, JavaScript - React/Vue.)
 
-🔭 Power Learn Project. (Stack: Python - Django,  Dart, and Flutter.)
+🔭 Power Learn Project Nanodegree Program. (Stack: Python - Django,  Dart, and Flutter.)
 
 🔭  ALX Software Engineering Nanodegree Program (Stack: NodeJS, Express.JS, TypeScript, Django )
 
