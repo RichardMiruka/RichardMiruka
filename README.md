@@ -20,7 +20,7 @@
 
 🔭 Power Learn Project Nanodegree Program. (Stack: Python - Django,  Dart, and Flutter.)
 
-🔭  ALX Software Engineering Nanodegree Program (Stack: NodeJS, Express.JS, TypeScript, Django )
+🔭  ALX Software Engineering Nanodegree Program (Stack: NodeJS, Flask, TypeScript, Django )
 
 🔭 I’m currently working on MongoDB, Docker, Kubernetes, Azure Cloud, AWS, 
 
