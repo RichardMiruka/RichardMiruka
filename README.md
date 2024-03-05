@@ -14,6 +14,16 @@
 
 <!--[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://developers.google.com/profile/u/tolulopefakunle/dashboard)-->
 
+<div align="left">
+  <h3>🎓 Education:</h3>
+  <ul>
+    <li>Moringa School Graduate (Python - Flask, JavaScript - React)</li>
+    <li>ALX Intro To SWE Program Graduate (Python - Flask, JavaScript - React/Vue)</li>
+    <li>Power Learn Project Nanodegree Program (Python - Django, Dart, Flutter)</li>
+    <li>ALX Software Engineering Nanodegree Program (NodeJS, Flask, TypeScript, Django)</li>
+  </ul>
+</div>
+
 🔭 Moringa School Graduate. (Stack: Python - Flask, JavaScript - React.)
 
 🔭 ALX Intro To SWE Program  Graduate. (Stack: Python - Flask, JavaScript - React/Vue.)
