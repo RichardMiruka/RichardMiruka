@@ -7,14 +7,9 @@
 
 <p align="left"> <a href="https://github.com/RichardMiruka/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RichardMiruka" alt="RichardMiruka" /></a> </p> 
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
+<p align="left">
     <img src="https://komarev.com/ghpvc/?username=RichardMiruka&label=Profile%20views&color=0e75b6&style=flat" alt="RichardMiruka" />
     <span class="profile-message">I'm Glad You're Checking My Profile 😁</span>
-  </div>
-  <div style="margin-right: 20px;">
-    <img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAC/developer.gif" alt="">
-  </div>
 </div>
 
 <!--[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://developers.google.com/profile/u/tolulopefakunle/dashboard)-->
