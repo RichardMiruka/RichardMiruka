@@ -12,7 +12,7 @@
     <img src="https://komarev.com/ghpvc/?username=RichardMiruka&label=Profile%20views&color=0e75b6&style=flat" alt="RichardMiruka" />
     <span class="profile-message">I'm Glad You're Checking My Profile 😁</span>
   </div>
-  <div style="margin-left: 20px;">
+  <div style="margin-right: 20px;">
     <img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAC/developer.gif" alt="">
   </div>
 </div>
