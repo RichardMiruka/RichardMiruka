@@ -10,8 +10,6 @@
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=RichardMiruka&label=Profile%20views&color=0e75b6&style=flat" alt="RichardMiruka" />
     <span class="profile-message">I'm Glad You're Checking My Profile 😁</span> 
-    
-</div> [![wakatime](https://wakatime.com/badge/user/018e5fe7-059d-4345-875b-009b5b1fdd07.svg)](https://wakatime.com/@018e5fe7-059d-4345-875b-009b5b1fdd07) 
 
 [![wakatime](https://wakatime.com/badge/user/018e5fe7-059d-4345-875b-009b5b1fdd07.svg)](https://wakatime.com/@018e5fe7-059d-4345-875b-009b5b1fdd07) 
 
