@@ -38,8 +38,6 @@
 
 ⚡ P/S Learning and picking up very fast is very important to me
 
-![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
-
 💬 Read my blog [here ](https://richard-miruka.hashnode.dev)
 
 🏋🏿 You can Check Out [My Portfolio](https://richard-miruka-portfolio.vercel.app/)
@@ -60,3 +58,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RichardMiruka&theme=dark" alt="RichardMiruka" /></p>
 <br/>
 
+![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
