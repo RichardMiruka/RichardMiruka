@@ -16,8 +16,6 @@
     <img src="https://komarev.com/ghpvc/?username=RichardMiruka&label=Profile%20views&color=0e75b6&style=flat" alt="RichardMiruka" />
     <span class="profile-message">I'm Glad You're Checking My Profile 😁</span>
 
-<!--[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://developers.google.com/profile/u/tolulopefakunle/dashboard)-->
-
 <div align="left">
   <h3>🎓 Education:</h3>
 </div>
