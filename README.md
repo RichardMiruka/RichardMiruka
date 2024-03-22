@@ -1,15 +1,20 @@
+<img align="center" alt="Coding" width="900" height="210" src="https://i.pinimg.com/736x/45/05/cf/4505cf2c0926b7cb73178a87e40b3af2--javascript-python.jpg">
+<!-- ![](https://i.ytimg.com/vi/2oklET0ERu4/maxresdefault.jpg) -->
+
 <h1 style="font-family:script;" align="left">Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px">I am Richard Miruka</h1> 
 
 <h3 align="left"> I am a Software Engineer, Specializing in Full Stack Development: TypeScript, React.JS, Angular, Node.JS, Flask, Django, Dart & Flutter  </h3>
 
 <p align="left">
+  <a href="https://github.com/RichardMiruka/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=RichardMiruka&exclude=issues" alt="RichardMiruka" />
+  </a>
+</p>
+
+
+<p align="left">
     <img src="https://komarev.com/ghpvc/?username=RichardMiruka&label=Profile%20views&color=0e75b6&style=flat" alt="RichardMiruka" />
     <span class="profile-message">I'm Glad You're Checking My Profile 😁</span>
-    
-<img align="center" alt="Coding" width="900" height="210" src="https://i.pinimg.com/736x/45/05/cf/4505cf2c0926b7cb73178a87e40b3af2--javascript-python.jpg">
-<!-- ![](https://i.ytimg.com/vi/2oklET0ERu4/maxresdefault.jpg) -->
-
-
 
 <!--[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://developers.google.com/profile/u/tolulopefakunle/dashboard)-->
 
