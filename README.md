@@ -5,13 +5,9 @@
 
 <h3 align="left"> I am a Software Engineer, Specializing in Full Stack Development: TypeScript, React.JS, Angular, Node.JS, Flask, Django, Dart & Flutter  </h3>
 
-[Profile Views](https://komarev.com/ghpvc/?username=RichardMiruka&label=Profile%20views&color=0e75b6&style=flat" alt="RichardMiruka)
-
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=RichardMiruka&label=Profile%20views&color=0e75b6&style=flat" alt="RichardMiruka" />
-    <span class="profile-message">I'm Glad You're Checking My Profile 😁</span> 
-
-[![wakatime](https://wakatime.com/badge/user/018e5fe7-059d-4345-875b-009b5b1fdd07.svg)](https://wakatime.com/@018e5fe7-059d-4345-875b-009b5b1fdd07) 
+    <span class="profile-message">I'm Glad You're Checking My Profile 😁</span>
 
 <!--[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://developers.google.com/profile/u/tolulopefakunle/dashboard)-->
 
@@ -41,7 +37,7 @@
 
 💬 Read my blog [here ](https://richard-miruka.hashnode.dev)
 
-🏋🏿 You can Check Out [My Portfolio](https://richard-miruka-portfolio-n8qq.vercel.app/)
+🏋🏿 You can Check Out [My Portfolio](https://richard-miruka-portfolio.vercel.app/)
 
 🔭 You can also find me on [Linkedin](https://www.linkedin.com/in/richard-miruka-05083b147)
 
@@ -52,7 +48,7 @@
  
  ## Stats.
 
- [![wakatime](https://wakatime.com/badge/user/018e5fe7-059d-4345-875b-009b5b1fdd07.svg)](https://wakatime.com/@018e5fe7-059d-4345-875b-009b5b1fdd07) 
+[![wakatime](https://wakatime.com/badge/user/018e5fe7-059d-4345-875b-009b5b1fdd07.svg)](https://wakatime.com/@018e5fe7-059d-4345-875b-009b5b1fdd07) 
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardMiruka&layout=compact&theme=dark&hide_border=false" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=RichardMiruka&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Richard Miruka's Github stats" /></p>
