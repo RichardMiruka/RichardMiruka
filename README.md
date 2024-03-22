@@ -1,5 +1,4 @@
-<img align="center" alt="Coding" width="900" height="210" src="https://i.pinimg.com/736x/45/05/cf/4505cf2c0926b7cb73178a87e40b3af2--javascript-python.jpg">
-<!-- ![](https://i.ytimg.com/vi/2oklET0ERu4/maxresdefault.jpg) -->
+
 
 <h1 style="font-family:script;" align="left">Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px">I am Richard Miruka</h1> 
 
