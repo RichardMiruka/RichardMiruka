@@ -5,6 +5,13 @@
 
 <h3 align="left"> I am a Software Engineer, Specializing in Full Stack Development: TypeScript, React.JS, Angular, Node.JS, Flask, Django, Dart & Flutter  </h3>
 
+<p align="left">
+  <a href="https://github.com/RichardMiruka/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=RichardMiruka&exclude=issues" alt="RichardMiruka" />
+  </a>
+</p>
+
+
 <p align="left"> <a href="https://github.com/RichardMiruka/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RichardMiruka" alt="RichardMiruka" /></a> </p> 
 
 <p align="left">
