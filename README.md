@@ -40,7 +40,7 @@
 
 💬 Read my blog [here ](https://richard-miruka.hashnode.dev)
 
-🏋🏿 You can Check Out [My Portfolio](https://portfolio-website-three-gamma.vercel.app/)
+🏋🏿 You can Check Out [My Portfolio](https://richard-miruka-portfolio-n8qq.vercel.app/)
 
 🔭 You can also find me on [Linkedin](https://www.linkedin.com/in/richard-miruka-05083b147)
 
