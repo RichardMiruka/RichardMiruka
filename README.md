@@ -9,8 +9,8 @@
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=RichardMiruka&label=Profile%20views&color=0e75b6&style=flat" alt="RichardMiruka" />
-    <span class="profile-message">I'm Glad You're Checking My Profile 😁</span> [![wakatime](https://wakatime.com/badge/user/018e5fe7-059d-4345-875b-009b5b1fdd07.svg)](https://wakatime.com/@018e5fe7-059d-4345-875b-009b5b1fdd07) 
-</div>
+    <span class="profile-message">I'm Glad You're Checking My Profile 😁</span> 
+[![wakatime](https://wakatime.com/badge/user/018e5fe7-059d-4345-875b-009b5b1fdd07.svg)](https://wakatime.com/@018e5fe7-059d-4345-875b-009b5b1fdd07) 
 
 <!--[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://developers.google.com/profile/u/tolulopefakunle/dashboard)-->
 
