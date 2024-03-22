@@ -5,6 +5,8 @@
 
 <h3 align="left"> I am a Software Engineer, Specializing in Full Stack Development: TypeScript, React.JS, Angular, Node.JS, Flask, Django, Dart & Flutter  </h3>
 
+[Profile Views](https://komarev.com/ghpvc/?username=RichardMiruka&label=Profile%20views&color=0e75b6&style=flat" alt="RichardMiruka)
+
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=RichardMiruka&label=Profile%20views&color=0e75b6&style=flat" alt="RichardMiruka" />
     <span class="profile-message">I'm Glad You're Checking My Profile 😁</span> 
