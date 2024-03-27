@@ -9,6 +9,7 @@
   <a href="https://github.com/RichardMiruka/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=RichardMiruka&exclude=issues" alt="RichardMiruka" />
   </a>
+  [![wakatime](https://wakatime.com/badge/user/018e5fe7-059d-4345-875b-009b5b1fdd07.svg)](https://wakatime.com/@018e5fe7-059d-4345-875b-009b5b1fdd07)
 </p>
 
 <p align="left">
