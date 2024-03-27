@@ -21,13 +21,13 @@
   <h3>🎓 Education:</h3>
 </div>
 
-🔭 Moringa School Graduate. (Stack: Python - Flask, JavaScript - React.)
+🔭  ALX Software Engineering Nanodegree Program (Stack: NodeJS, Flask, TypeScript, Django )
+
+🔭 Moringa School Bootcamp Graduate. (Stack: Python - Flask, JavaScript - React & Angular.)
 
 🔭 ALX Intro To SWE Program  Graduate. (Stack: Python - Flask, JavaScript - React/Vue.)
 
-🔭 Power Learn Project Nanodegree Program. (Stack: Python - Django,  Dart, and Flutter.)
-
-🔭  ALX Software Engineering Nanodegree Program (Stack: NodeJS, Flask, TypeScript, Django )
+🔭 Power Learn Project Nanodegree Program. (Stack: Python - Django,  Dart & Flutter.)
 
 🔭 I’m currently working on MongoDB, Docker, Kubernetes, Azure Cloud, AWS, 
 
