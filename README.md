@@ -17,6 +17,7 @@
     <span class="profile-message">I'm Glad You're Checking My Profile 😁</span>
 </p>    
 
+
 <div align="left">
   <h3>🎓 Education:</h3>
 </div>
