@@ -3,7 +3,7 @@
 
 <h1 style="font-family:script;" align="left">Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px">I am Richard Miruka</h1> 
 
-<h3 align="left"> I am a Software Engineer, Specializing in Full Stack Development: TypeScript, React.JS, Angular, Node.JS, Flask, Django, Dart & Flutter  </h3>
+<h3 align="left"> I am a Software Engineer, Specializing in Full Stack Development, with a strong focus on Backend Engineering: TypeScript, React.JS, NextJS, Node.JS, Flask, Django, GraghQL Dart & Flutter  </h3>
 
 <p align="left">
   <a href="https://github.com/RichardMiruka/github-profile-trophy">
