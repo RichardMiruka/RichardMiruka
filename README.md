@@ -9,10 +9,6 @@
   <a href="https://github.com/RichardMiruka/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=RichardMiruka&exclude=issues" alt="RichardMiruka" /> 
   </a>
-  <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=RichardMiruka&theme=monokai&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
 </p>
 
 <p align="left">
